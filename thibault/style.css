@@ -1,0 +1,22 @@
+h1{
+	color: red;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h2{
+	color: white;
+	text-decoration: underline;
+	font-style: italic;
+}
+body{
+	background-color: grey
+}
+p{
+	color: white;
+	font-style: italic;
+}
+ol{
+	color: white;
+	font-style: italic;
+}
